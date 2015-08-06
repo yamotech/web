@@ -1,11 +1,13 @@
-# YutuEチームのウェブサイト制作
+# YuruEチームのウェブサイト
 
 YuruEチームのウェブサイト用リポジトリです。
 
 ---
 
 ## メンバー
-Coming soon...
+* konno
+* yamotech
+* coming soon...
 
 ## ファイル構成
 
